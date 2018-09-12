@@ -6,7 +6,7 @@ LSACreator is the simple but powerful .NET localization tool and the fastest sol
 
 The solution is based on localized satellite assemblies which is the best practice to make a professional .NET multi-language application. Thanks to this approach we can add a new language to any .NET program or website having only its binaries (.dll/.exe). That completely separates Visual Studio project and source code from language project. What is more it even allows end-user to translate the application.
 
-See the [Quick start](docs/quickstart.md) for more details.
+See the [Quick start](quickstart.md) for more details.
 
 ## Features
 
