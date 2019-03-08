@@ -1,14 +1,5 @@
-# Documentation
+# Command Line Parameters
 
-### Working with WinForms
-
-If you are using WinForms, you have to set property **“Localizable”** to **“true”** in dialog designer (for all forms). This way Visual Sudio will create a resource for your dialog or control.
-
-### Working with source protector/obfuscator
-
-If you are using some kind of source protector/obfuscator, then make sure it is not encrypting your resources. If you can see your resource and its strings in ILSpy or Reflector it means that LSACreator can see it too.
-
-### Command line parameters
 | Command    | Description           | 
 | ------------- |:------------- 
 | `@filename`     | Specifies a response file that contains LSACreator.exe commands. Commands in the response file can appear one per line or on the same line, separated by one or more spaces. | 
