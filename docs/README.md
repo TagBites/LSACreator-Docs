@@ -8,6 +8,10 @@ The solution is based on localized satellite assemblies which is the best practi
 
 See the [Quick start](quickstart.md) for more details.
 
+![](_media/main_1280x984.jpg)
+
+![](_media/main_preview_1280x984.jpg)
+
 ## Features
 
 
